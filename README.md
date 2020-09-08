@@ -4,5 +4,3 @@
 Unity 2020.1.2f1c1 (64-bit)
 ### 对应CSDN博客文章
 https://linxinfa.blog.csdn.net/article/details/72937709
-
-![image](https://raw.githubusercontent.com/linxinfa/Unity-BehaviorDesigner-Demo/master/screenshot/Snipaste_2020-09-08_11-30-33.png "Optional title")
