@@ -5,4 +5,4 @@ Unity 2020.1.2f1c1 (64-bit)
 ### 对应CSDN博客文章
 https://linxinfa.blog.csdn.net/article/details/72937709
 
-![](https://assetstore-cdn-china-v1.unitychina.cn/key-image/57e13c1b-3432-4a3b-860c-b82182d6eac7.webp)
+![](https://raw.githubusercontent.com/linxinfa/Unity-BehaviorDesigner-Demo/master/Images/1.png)
